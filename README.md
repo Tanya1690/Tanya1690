@@ -15,6 +15,7 @@ My work focuses on building market risk models and analytical tools to estimate 
 I am currently preparing to transition into front-office quantitative research/trading roles in global investment banks and hedge funds.
 
 ---
+<!-- 
 
 ## 📌 Featured Projects
 
@@ -38,6 +39,7 @@ Working on:
 - Factor modelling
 
 ---
+-->
 
 ## 📚 Currently Learning
 
