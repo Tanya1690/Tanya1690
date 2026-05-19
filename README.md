@@ -54,5 +54,5 @@ Working on:
 
 ## ⚡ Fun Fact
 
-I enjoy getting my hands dirty in building quantitative tools that combine mathematics with real-world impact.
+I enjoy getting my hands dirty in building quantitative tools to bring intimidating finance and mathematics topics to life.
 
