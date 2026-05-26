@@ -3,7 +3,7 @@
 🎯 Risk Quant | Aspiring Front Office & Hedge Funds Quant roles
 📍 London, United Kingdom  
 📚 MSc Mathematics & Finance (Incoming) @ Imperial College London  
-💻 Python • Quantitative Finance • Risk Modelling • Statistics • Machine Learning
+💻 Python • Quantitative Finance • Risk Modelling • Statistics • Machine Learning Enthusiast
 
 ---
 
