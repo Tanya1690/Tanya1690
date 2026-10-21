@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Tanya Jain.
 
 📚 MSc Mathematics & Finance @ Imperial College London 
+
 🎯 Risk Quant | Aspiring Front Office & Hedge Funds Quant roles
+
 📍 London, United Kingdom  
-💻 Python • Quantitative Finance • Risk Modelling • Statistics • Machine Learning Enthusiast
+
+💻 Quantitative Finance • Python • Risk Modelling • Statistics • Machine Learning Enthusiast
 
 ---
 
